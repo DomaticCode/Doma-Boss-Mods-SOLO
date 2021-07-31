@@ -16,5 +16,9 @@ That is why I developed my own settings tracking all mechanics of bosses which I
 All of which follow a pattern both by sound, text, and emojis to hopefully be easy to know at a glance exactly what you need to do.
 
 
-##How to install:
-Firstly in Game fin the Captain's Assistant Icon in the game bar next to combat stats ![captains assistant](https://i.imgur.com/LrWxaMC.png)
+## How to install:
+Firstly in Game find the Captain's Assistant Icon in the game bar next to combat stats ![captains assistant](https://i.imgur.com/LrWxaMC.png)
+
+Left click it to open Boss Event Monitoring ![Boss Event Monitoring](https://i.imgur.com/jQCaLBp.png)
+
+Then click the cog wheel in the upper right and make sure that Turn on Event Monitoring history is turned on. ![cog wheel and event monitoring](https://i.imgur.com/sc28uTn.png)
