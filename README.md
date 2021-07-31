@@ -1,6 +1,8 @@
 # Doma-Boss-Mods-SOLO
 Doma's Boss Mods for Captain's Assistant in Sword of Legends Online
 
+If a folder has "Melee" added to it, it is the same as the base one except includes a few trackers explicitly for yourself if you install which warns you about melee specific avoiding.
+
 ## What does it do?
 The captain's assistant tracks boss skills and events. It allows you to create Popups with sound, text, and other little things to immediately notify you if the boss is casting an ability, at a certain hp, or a few other situations.
 For instance it can tell you 
