@@ -32,7 +32,7 @@ Then select Download ZIP ![download ZIP](https://i.imgur.com/ztAZstz.png)
 
 Find the folder you downloaded, and unzip it using 7-zip winRAR or Windows Extract ALL...![unzip](https://i.imgur.com/0x3a5c7.png)
 
-Inside the folder find which dungeon/files you want to install (go into the folders themselves and find the .cen files ![.cen files](https://i.imgur.com/OJrIGeP.png)
+Inside the folder find which dungeon/files you want to install (go into the folders themselves and find the .cen files) ![.cen files](https://i.imgur.com/OJrIGeP.png)
 
 Now go back into the game and *right click* the Captain's Assistant icon (the same icon you left clicked earlier) To bring up the Boss Event Monitoring window ![captains assistant](https://i.imgur.com/LrWxaMC.png)
 
@@ -49,4 +49,9 @@ This will bring up the list of all files you put into the directory and allow yo
 You should then see the imported dungeons/raids in your Boss Event Monitoring window ![done importing](https://i.imgur.com/x8ICSpK.png)
 
 And you can click through all the bosses and see the exact skills I track, when they trigger, and what they say ![all done](https://i.imgur.com/U7nHw20.png)
+
+After installing I would reccomend deleting the files you imported so your next import will be cleaner to import in game *BUT DO NOT DELETE THE Cen.Folder THIS IS ALL YOUR IN GAME BOSS EVENT MONITORING FILES.*
+![clean up](https://i.imgur.com/uXhOJmq.png)
+
+## DO NOT DELETE Cen.Folder
 
