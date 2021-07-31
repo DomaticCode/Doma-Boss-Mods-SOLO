@@ -19,6 +19,7 @@ All of which follow a pattern both by sound, text, and emojis to hopefully be ea
 ## How to install:
 Firstly in Game find the Captain's Assistant Icon in the game bar next to combat stats ![captains assistant](https://i.imgur.com/LrWxaMC.png)
 
-Left click it to open Boss Event Monitoring ![Boss Event Monitoring](https://i.imgur.com/jQCaLBp.png)
+Left click it to open Boss Event Monitoring
+ ![Boss Event Monitoring](https://i.imgur.com/jQCaLBp.png)
 
 Then click the cog wheel in the upper right and make sure that Turn on Event Monitoring history is turned on. ![cog wheel and event monitoring](https://i.imgur.com/sc28uTn.png)
