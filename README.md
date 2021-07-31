@@ -50,7 +50,7 @@ You should then see the imported dungeons/raids in your Boss Event Monitoring wi
 
 And you can click through all the bosses and see the exact skills I track, when they trigger, and what they say ![all done](https://i.imgur.com/U7nHw20.png)
 
-After installing I would reccomend deleting the files you imported so your next import will be cleaner to import in game *BUT DO NOT DELETE THE Cen.Folder THIS IS ALL YOUR IN GAME BOSS EVENT MONITORING FILES.*
+After installing I would reccomend deleting the files you imported so your next import will be cleaner to import in game **BUT DO NOT DELETE THE Cen.Folder THIS IS ALL YOUR IN GAME BOSS EVENT MONITORING FILES.**
 ![clean up](https://i.imgur.com/uXhOJmq.png)
 
 ## DO NOT DELETE Cen.Folder
