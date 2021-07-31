@@ -1,5 +1,5 @@
 # Doma-Boss-Mods-SOLO
-Doma's Boss Mods for Captain's Assistant in Sword of Legends Online
+Doma's Boss Mods (DBM for short) for Captain's Assistant in Sword of Legends Online
 
 If a folder has "Melee" added to it, it is the same as the base one except includes a few trackers explicitly for yourself if you install which warns you about melee specific avoiding.
 
